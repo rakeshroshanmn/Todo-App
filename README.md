@@ -18,3 +18,8 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# Todo-App" 
+
+
+### Working Model
+
+([https://todo-app-vuejs-vuetify.netlify.app/])
